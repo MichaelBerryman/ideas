@@ -1,0 +1,8 @@
+looking up a recipe is a very static activity
+
+mvp find a lasagne on bbc good food, and provide scaling options
+    I want to make a meal for 2, or for 15, weights should adjust accordingly
+    
+v2 integrate with online shops, so you can order the recipe
+
+v3 order multiples. so you can create a meal plan for the week and order it via tesco or similar
