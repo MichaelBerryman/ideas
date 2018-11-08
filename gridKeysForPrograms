@@ -1,0 +1,17 @@
+source of inspiration - old Dawn of War 2 mod called grid keys, which mapped all keyboard shortcuts to the same grid area of keys
+
+first ability = q, second = w etc
+
+this approach might work well with e.g. Eclipse, Slack
+
+left side of the keyboard for actions on the left side of the screen, right side for actions on the right 
+
+slack:
+right hand actions might be thread related, e.g. open thread, cycle different threads etc
+
+left hand side might be stuff for managing workspaces and conversations
+
+eclipse:
+left hand side might be file structure navigation, right hand might be code navigation 
+
+eclipse would be a good place to start as it can count which shortcuts you use
