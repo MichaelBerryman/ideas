@@ -1,0 +1,9 @@
+Keyboard Shortcut suggestor
+record which shortcuts people use and their frequency (nothing identifiable) (may already be supported by feedback diagnostics or similar)
+
+if a user is not using a "popular" shortcut then, occasionally suggest that it might be useful
+
+? how to tell if the shortcut is applicable to them?  feedback on the suggestion pop up - not applicable to me, thanks, no thanks, go away etc
+
+create heatmaps of keyboard shortcuts to suggest changing the shortcut to make it easier, e.g. if they're using a chain, suggest making the resultant action a first class shortcut
+
