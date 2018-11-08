@@ -1,4 +1,4 @@
-Keyboard Shortcut suggestor
+- Keyboard Shortcut suggestor
 record which shortcuts people use and their frequency (nothing identifiable) (may already be supported by feedback diagnostics or similar)
 
 if a user is not using a "popular" shortcut then, occasionally suggest that it might be useful
@@ -7,3 +7,13 @@ if a user is not using a "popular" shortcut then, occasionally suggest that it m
 
 create heatmaps of keyboard shortcuts to suggest changing the shortcut to make it easier, e.g. if they're using a chain, suggest making the resultant action a first class shortcut
 
+- Ghost Writer
+Assume that people will want to refactor a used variable and always retype usages inline with the edits being made
+
+- Ghost Text
+Enrich rows of code with knowledge, this will not affect running of the code, probably not even selectable (might be useful to be able to copy it though)
+
+e.g. 
+  regex - use an existing regex explainer to add a ghost text explanation of any regex found
+  api hints - note types or variable names so you don't have to navigate a new API to figure out what to pass around
+  
