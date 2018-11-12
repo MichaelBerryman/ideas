@@ -1,0 +1,19 @@
+Feature request - pass through of keyboard shortcut
+
+specific example - shortcut for global search in apple notes is cmd + opt + f - which conflicts with spectacles make full screen
+
+therefore provide an option  preference for passthrough, which would invoke the keypress again after it's been intercepted by spectacle in case someone else is using it...
+
+notes shorcut is not reassignable
+
+other thoughts - only passthrough if the function is not applicable for the current scenario, e.g. 
+
+notes is not full screen - c + o + f make it full screen
+
+notes is already full screen - c+ o + f passes through spectacle to notes and invokes global search
+
+could also only perform it on repeated invocations, e.g. if already full screen and cmd invoked twice then pass through, although I doubt that there's any state in spectacle
+
+
+clone this and try to understand it
+https://github.com/eczarny/spectacle
