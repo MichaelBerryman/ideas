@@ -1,0 +1,11 @@
+Comparing a logo against different backgrounds automatically would help identify early design issues like poor contrast in dark themes or similar
+
+take a logo file, png etc
+
+display it infront of a gif of different background colours
+
+scrubbable gif or mp4 etc might be nicer
+
+learn how colour palettes work - support different scheming so people can load a specific scheme for comparison - probably a json list of css attributes or similar
+
+perhaps show a two colour comparison slider akin to https://squoosh.app/
