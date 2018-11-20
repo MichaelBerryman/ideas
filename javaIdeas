@@ -1,0 +1,11 @@
+Ideas to improve or implment in Java
+
+config documentation and analysis
+  when creating a spring app some configuration may be handled through environment variables, e.g. ${APP_PORT:8088}
+  this needs documenting so users know about it, and needs to be included in the docker-compose.yml so that it's exposed
+  
+  both of these things should be automated in a similar manner to say swagger
+  
+  anything without a default is mandatory and should prevent the start up of app with a useful error message
+  
+  anything with a default should be documented and included in the docker-compose where required, e.g. as a environment variable or a port mapping
